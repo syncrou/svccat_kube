@@ -6,7 +6,7 @@
 ./console
 ```
 
-## Make a connection
+## Make a connection using a Bearer Token
 
 ```
 conn = Provider::Openshift::Connection.new('7yvEIvdF5yn2dGR2lJLqeHVHS26VBkO-zzpzpBiSfu8','https://172.16.2.130:8443')
